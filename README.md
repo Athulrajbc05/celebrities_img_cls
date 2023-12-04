@@ -1,8 +1,4 @@
-It's great that you want to document your model summary and findings for the Git repository. To add this information to your Git repository, you can create a README file or update an existing one with the summary you've provided.
 
-Here's an example of how you can structure this information in a README.md file:
-
-```markdown
 # Celebrities Image Classification
 
 ## Summary of the Chosen Model, Training Process, and Critical Findings
@@ -39,5 +35,3 @@ history = model.fit(x_train, y_train, epochs=30, batch_size=128, validation_spli
 - Consideration of additional evaluation metrics for a more comprehensive analysis.
 - Continuous monitoring and improvement of the model based on real-world data feedback.
 ```
-
-You can create or edit the README.md file in your Git repository and paste this information there. This will provide a clear overview of your model and its performance to anyone visiting your repository. Adjust the content based on your specific implementation and findings.
